@@ -1,0 +1,39 @@
+Lokibot | 08.03.2022 | .pdf > .xls > .eqned32 > .exe
+
+.pdf da9c3deb08bfc6a2e7930a4c8f1bd81b5ebffbb09b44027c74ea41ebf7149f8b
+.exe 95a6e7e94584bb98686d4c6d2db1a1c4c32ccd7909172422af384ac5fad7128e
+.exe eb5ea817fafaf78fb281514d7cf459f4d0a51ecc7f5d75904c3fbd421a655fe0
+
+************************************************************************************************************
+
+Exec Flow >>
+
+AcroRd32.exe C:\Users\Admin\AppData\Local\Temp\CSGMEUSDRAI-22-S-00034-1.pdf
+
+EXCEL.EXE /dde
+
+EQNEDT32.EXE Embedding
+
+C:\Users\Public\vbc.exe
+
+C:\Users\Admin\AppData\Local\Temp\stglwmgsd.exe C:\Users\Admin\AppData\Local\Temp\gniamouo
+
+C:\Users\Admin\AppData\Local\Temp\stglwmgsd.exe C:\Users\Admin\AppData\Local\Temp\gniamouo
+
+************************************************************************************************************
+
+Network
+
+http://198.23.251.29/zz/loader1.exe
+http://198.23.251.29/zz/loader4.exe
+
+c2's
+
+http://qtd8gcdoplav737wretjqmaiy.gq/Kent2/fre.php
+http://kbfvzoboss.bid/alien/fre.php
+http://alphastand.trade/alien/fre.php
+http://alphastand.win/alien/fre.php
+http://alphastand.top/alien/fre.php
+
+
+
